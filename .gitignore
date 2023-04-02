@@ -1,3 +1,7 @@
+# Added by me
+*.xml
+Music_sorted
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
